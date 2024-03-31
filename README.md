@@ -9,6 +9,8 @@ Skills: C# / C++ / HTML / CSS
 - 🔭 I’m currently working on A videogame 
 - 🌱 I’m currently learning C# & C++ 
 
+My Projects:
+Clickergame: 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TPTskeb)  
 
