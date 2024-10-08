@@ -7,11 +7,12 @@ At the moment I make projects for my own fun and to educate myself.
 Skills: C# / C++ / HTML / CSS 
 
 - 🔭 I’m currently working on A videogame 
-- 🌱 I’m currently learning C# & C++ 
+- 🌱 I’m currently learning C# & C++
+
 
 My Projects:
-Clickergame: 
-
+Covenant of Mayo:
+Clickergame:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TPTskeb)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TPTskeb)](https://github.com/anuraghazra/github-readme-stats)
