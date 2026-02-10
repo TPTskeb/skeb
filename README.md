@@ -11,13 +11,6 @@ Skills: C# / C++ / HTML / CSS
 
 
 My Projects:
-Covenant of Mayo:
-Clickergame:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TPTskeb)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TPTskeb)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TPTskeb&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TPTskeb)  
-
+Covenant of Mayo
+Clickergame
+Project_Rougelike(Under Concept Developement)
